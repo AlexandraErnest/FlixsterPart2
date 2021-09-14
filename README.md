@@ -23,8 +23,6 @@
 ![flixsterPt 2 Walkthroughgif](https://user-images.githubusercontent.com/88745954/133305921-7772a737-01f2-4936-8874-12f3e08a65b0.gif)
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
-
 ### Notes
 
 Describe any challenges encountered while building the app.
